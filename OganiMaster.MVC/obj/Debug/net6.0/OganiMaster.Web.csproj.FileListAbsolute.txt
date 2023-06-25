@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\ASP.net\OganiMaster\OganiMaster.MVC\obj\Debug\net6.0\OganiMaster.Web.RazorAssemblyInfo.cs
